@@ -18,4 +18,6 @@ channels.
 #cohen’s kappa score: 0.98
 
 
-Thank You.......................................................................................................................................................
+![Capture3](https://user-images.githubusercontent.com/118710462/209948622-14772665-ecac-4277-8331-ffe9a41315ba.PNG)
+![Capture4](https://user-images.githubusercontent.com/118710462/209948648-c868e708-49d6-4018-96a5-5f27b0d2427c.PNG)
+
